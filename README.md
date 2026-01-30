@@ -1,4 +1,4 @@
-<img width="1659" height="480" alt="image" src="https://github.com/user-attachments/assets/04120d44-38af-4be1-8d2e-9b264bed7d01" />
+
 
 ---
 
@@ -48,6 +48,7 @@ This project combines **ML prediction**, **data preprocessing**, and a **modern 
 ---
 <img width="1874" height="907" alt="image" src="https://github.com/user-attachments/assets/e3ae13ad-f5de-4515-a582-042c7fea8638" />
 <img width="1884" height="898" alt="image" src="https://github.com/user-attachments/assets/16326ee7-d9e5-41ee-b426-733cceff944f" />
+<img width="1659" height="480" alt="image" src="https://github.com/user-attachments/assets/04120d44-38af-4be1-8d2e-9b264bed7d01" />
 
 
 ## 📂 Project Structure
