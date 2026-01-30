@@ -1,3 +1,4 @@
+<img width="1659" height="480" alt="image" src="https://github.com/user-attachments/assets/04120d44-38af-4be1-8d2e-9b264bed7d01" />
 
 ---
 
@@ -119,6 +120,8 @@ If it was the **target variable**, remove it to avoid **data leakage**.
 * 🌗 Dark / Light mode toggle
 
 ---
+<img width="1659" height="480" alt="image" src="https://github.com/user-attachments/assets/9040511e-099e-4464-916f-b6ddbeb6c3db" />
+
 
 ## 👨‍💻 Author
 
