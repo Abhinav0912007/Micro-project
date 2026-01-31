@@ -46,8 +46,12 @@ This project combines **ML prediction**, **data preprocessing**, and a **modern 
 * **Language**: Python 3.8+
 
 ---
+
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/c5ec7428-6ec0-403e-9ccb-bd405bb16504" />
 <img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/0d5400ae-2afb-4d6a-b06e-a905a71d21ff" />
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/cae20764-cd27-4096-8598-5025e46968be" />
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/dac55bac-fb47-40fc-b6cc-cc20b9e40f8a" />
+
 
 
 
